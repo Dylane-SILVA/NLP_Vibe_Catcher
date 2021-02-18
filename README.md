@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AlexisLib/NLP-VibeCatcher">
+  <a href="https://github.com/Dylane-SILVA/NLP_Vibe_Catcher">
     <img src="image/VibeCatcher.png" alt="Logo">
   </a>
 
@@ -27,9 +27,9 @@
     The aim of the Vibe Catcher project is to learn about the dominant sentiment evoked by a hashtag. From a user perspective, this will allow entering a hashtag in a search box and retrieving the general sentiment it evokes on social media Twitter and Instagram. The general sentiment will be returned under negative, neutral and positive percentage.
     <br />
     <br />
-    <a href="https://github.com/AlexisLib/NLP-VibeCatcher/issues">Report Bug</a>
+    <a href="https://github.com/Dylane-SILVA/NLP_Vibe_Catcher/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AlexisLib/NLP-VibeCatcher/issues">Request Feature</a>
+    <a href="https://github.com/Dylane-SILVA/NLP_Vibe_Catcher/issues">Request Feature</a>
   </p>
 </p>
 
@@ -64,7 +64,7 @@
 ## About The Project
 
 <p align="center">
-  <a href="https://github.com/AlexisLib/NLP-VibeCatcher">
+  <a href="https://github.com/Dylane-SILVA/NLP_Vibe_Catcher">
     <img src="image/covid.JPG">
   </a>
  </p>
@@ -93,7 +93,7 @@ You need to get Python for run this project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AlexisLib/NLP-VibeCatcher.git
+   git clone https://github.com/Dylane-SILVA/NLP_Vibe_Catcher.git
    ```
    
  2. Install core spacy
@@ -109,7 +109,7 @@ You need to get Python for run this project.
 ## Usage
 
 <p align="center">
-  <a href="https://github.com/AlexisLib/NLP-VibeCatcher">
+  <a href="https://github.com/Dylane-SILVA/NLP_Vibe_Catcher">
     <img src="image/result.JPG" alt="Logo">
   </a>
 </p>
@@ -120,28 +120,7 @@ You need to get Python for run this project.
 - Final step : you can choose the language between english (en) or french (fr).
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/AlexisLib/NLP-VibeCatcher/issues) for a list of proposed features (and known issues).
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/AlexisLib/NLP-VibeCatcher](https://github.com/AlexisLib/NLP-VibeCatcher)
+## Project realised by  Alexis LIBERGE , Lin DIXUAN, Guillaume AMORTILLA, Dylane DA SILVA
 
 
 
